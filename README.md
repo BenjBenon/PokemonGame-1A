@@ -1,6 +1,6 @@
 # Pokemon Game
 
-Développement d'un jeu console en C# recopiant les mécaniques des Pokemon.
+Développement d'un jeu console en C# recopiant les mécaniques des jeux Pokemon.
 Développement des compétences de programmation C#.
 Equipe de 3 développeurs.
 
