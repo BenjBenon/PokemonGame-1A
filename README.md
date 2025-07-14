@@ -16,7 +16,10 @@ Ce jeu est un petit jeu développé en une semaine avec 2 autres étudiants, vis
 
 ## Captures d’écran
 
-![alt](lien)`
+![Image du jeu](Images/game.png)
+![Combats](Images/fight.png)
+![Centre Pokemon](Images/pokemoncenter.png)
+![Liste de Pokemon](Images/pokemonlist.png)
 
 ## Auteurs
 
