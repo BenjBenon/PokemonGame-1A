@@ -23,8 +23,8 @@ Ce jeu est un petit jeu développé en une semaine avec 2 autres étudiants, vis
 
 ## Auteurs
 
-- Benjamin Benon  
-[LinkedIn](https://www.linkedin.com/in/benjamin-benon-78b495194/)
-- Clément Faye 
-[LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-faye-853142275/)
-- William Chapron
+Benjamin Benon  
+[LinkedIn](https://www.linkedin.com/in/benjamin-benon-78b495194/)  
+Clément Faye  
+[LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-faye-853142275/)  
+William Chapron
